@@ -1,0 +1,178 @@
+/*
+  Localizable.strings
+  MAZADUNA
+
+  Created by Lama 🌈🌱🍒 on 21/04/1443 AH.
+  
+*/
+
+//share page
+"shareTitle"="Share";
+"shareMsg"="Share the auction to your friends!";
+"shareTwt"="Share with twitter";
+"like"="I like this auction on Mazaduna:\n";
+"locate"="Locate at";
+"in"=" in ";
+"city"=" City";
+"describe"="\nWhich described as";
+"startWith"="\nIt start with";
+"nowReaches"=" And now reaches";
+
+
+//neighbourhood comments page
+"addComment"="Add Comment...";
+
+// seller info page
+"sellerInformation"="Seller Information";
+"sellerPosts"="Posts";
+"ratinges"="Ratings";
+"rateSeller"="Rate Seller";
+"rate"="Rate";
+
+
+//manage profile page
+"saveButton"="Save";
+"manageValidEmail"="Please enter valid email";
+"manageValidPhone"="Please enter valid phone number";
+"manageUpdate"="Updating..";
+"managePhoneExist"="Phone number is already exists. please enter different one";
+"manageConfirm"="Confirmed";
+"manageProfileSuccessfully"="Profile updated successfully.";
+"manageWrongPhone"="Wrong phone number";
+"managePhoneExist2"="Number already exists";
+"enterOTP"="Enter Verification Code";
+"manageCheck"="Checking..";
+
+//delete posts page
+"deleteAlert"="Alert";
+"deleteMsg"="Are you sure to delete this post?";
+"deleteYes"="Yes";
+"deleteNo"="No";
+"youCantDelete"="Sorry, you can't delete an auction that already started";
+
+
+//Settings page
+"myProfile"="My Profile";
+"myPosts"="My Posts";
+"auctions"="Auctions";
+
+//Favorite page
+"myFavorite"="My Favorite Auctions";
+
+//View profile page
+"profileEmail"="Email";
+"profilePhone"="Phone";
+
+//View Info page
+"vLocation"="City : ";
+"vType"="Type : ";
+"vNeighborhood"="Neighborhood : ";
+"vDescription"="Description :\n";
+"vStartPrice"="Start Price :";
+"vSpace"="Space :";
+"vStartDate"="Start Date :";
+"vEndDate"="End Date :";
+"vCurrentPrice"="Current Price\n";
+"bidButton"="Bid";
+"bidErrorHigh"="You can't bid high than two times the bidding price, please bid lower";
+"bidErrorLow"="You can't bid less than bidding price, please bid higher";
+"bidErrorSame"="Sorry you can't bid with same bidding price, please bid higher";
+"bidConfirmationTitle"="Confirmed";
+"bidConfirmationMsg"="You have placed your bidding succesfully";
+
+//Post Auction page
+"realEstateName"="Real State Name: *";
+"realEstateNameFeild"="Enter name";
+"AddLocation"="Add location*";
+"UploadPhoto"="Upload photo*";
+"realEstateSpace"="Space:*";
+"realEstateSpaceFeild"="Enter space";
+"realEstateMeter"="m²";
+"realEstateType"="Type:*";
+"realEstateTypeFeild"="Select type";
+"realEstatePrice"="Price:*";
+"realEstatePriceFeild"="Enter price";
+"realEstateCurrency"="SAR";
+"realEstateStartDate"="Start Date:*";
+"realEstateStartDateFeild"="Enter start date";
+"realEstateEndDate"="End Date:*";
+"realEstateEndDateFeild"="Enter end date";
+"realEstateDescription"="Description:*";
+"Post"="Post";
+"priceError"="Price should be more than 0";
+"spaceError"="Space should be more than 0";
+"villa"="Villa";
+"land"="Land";
+"apartment"="Apartment";
+"duplex"="Duplex";
+"builiding"="Builiding";
+"postUploading"="Post Uploading";
+"postFailed"="Failed to upload. Please try again.";
+"postCreating"="Creating";
+"photos"="Photos";
+"camera"="Camera";
+"done"="Done";
+"dateError1"="Start date can not be later then end date.\nPlease select valid start date.";
+"dateError2"="Please select start date first.";
+"dateError3"="End date can not be earlier then start date.\nPlease select valid end date.";
+
+
+//TabBar
+"settingsAlert"="You haven't registered yet. Only registered user can open settings. Please Sign Up or Sign In if you are already registered.";
+"favoriteAlert"="You haven't registered yet. Only registered user can open favourite page. Please Sign Up or Sign In if you are already registered.";
+
+//Home
+"changeLang"="";
+"cancel"="الغاء";
+"ok"="حسنًا";
+"warning"="تحذير";
+"bodyMsg"="اغلق التطبيق واعد تشغليه لتغيير اللغة؟";
+"postAlert"="You haven't registered yet. Only registered user can make a post here. Please Sign Up or Sign In if you are already registered.";
+"cancelAlert"="Cancel";
+
+// Sign Up page
+"signUp" = "Sign Up";
+"emailSignUp"="Email: *";
+"phoneSignUp"="Phone: *";
+"passwordSignUp"="Password: *";
+"requiredFieldsSignUp"="*Required feilds";
+"SignUpButton"="Sign up";
+"skipButton"="Continue as a Visitor";
+"doYouHaveAcc"="Do you have an account?";
+"signInForSignUp"="Sign In";
+"validEmail"="Enter valid email";
+"validPhonenumber"="Enter valid phonenumber";
+"strongPassword"="Enter strong password";
+"errorTitle"="Error";
+"errorAction"="OK";
+"fillAllFieldsError"="Please fill in all fields";
+"validAllFields"="Please Enter valid email, phone number, and password";
+"validEmailAndPhone"="Please Enter valid email and phone number";
+"validPhoneAndPassword"="Please Enter valid phone number and password";
+"validEmailAndPassword"="Please Enter valid email and password";
+"validPhone"="Please enter valid phone number";
+"validEmail"="Please enter valid email address";
+"validPassword"="Password must be at least 8 characters, One Alphabet, One Special Character";
+"phoneExist"="This Phone number is already Exists";
+"emailExist"="This Email is already exists";
+
+// Sign In Page
+"signInByPhone"="Sign In with phone number";
+"newToMazaduna"="New to Mazaduna?";
+"emailNotExist"="The email does not exist";
+"invalidSignIn"="Wrong email or password";
+
+// Sign In by phone
+"OTP"="OTP: *";
+"wrongPhone"="Wrong phone number";
+"wrongOTP"="Wrong OTP";
+"errorOTP"="Error getting verification id";
+
+// notification
+"auction"="Auction ";
+"ended"=" Has ended";
+"closePrice"="Close price at ";
+"bidder"="Bidder: ";
+"hasWon"=" Has Won";
+"priceUpdate"=" Price Has been Updated";
+"notificationBody"=" A New Bidder Just Made a New Bid";

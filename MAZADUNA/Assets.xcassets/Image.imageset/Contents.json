@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "[removal.ai]_tmp-61564c2b214c9.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "[removal.ai]_tmp-61564c2b214c9@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "[removal.ai]_tmp-61564c2b214c9@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

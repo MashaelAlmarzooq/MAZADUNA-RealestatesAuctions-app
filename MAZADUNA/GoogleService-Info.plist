@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432823177296-hgigcsuek4mp132bc524ejao9gcskjdg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432823177296-hgigcsuek4mp132bc524ejao9gcskjdg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRL_Yo1Gi3-JvfC3p_dfLv6I4_OV1eH4A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432823177296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mazaduna.MAZADUNA</string>
+	<key>PROJECT_ID</key>
+	<string>mazaduna</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mazaduna.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432823177296:ios:acc6cb1a407d3024ddc155</string>
+	<key>DATABASE_URL</key>
+	<string>https://mazaduna-default-rtdb.firebaseio.com</string>
+	<key>IS_MEASUREMENT_ENABLED</key>
+	<false/>
+</dict>
+</plist>
